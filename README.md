@@ -1,2 +1,2 @@
 # image
-all images related to markdown
+all images
